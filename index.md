@@ -1,29 +1,17 @@
 ## 我们搭乘思考的邮轮 乘风破浪
 
-You can use the [editor on GitHub](https://github.com/venbill/venbill.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+一名简单的程序员对人生的一点思考
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 2017.12.17
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+终日
+撒我残存
+于高风
+踏云巡游宫阙
+于江源
+与鱼同游入海
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
