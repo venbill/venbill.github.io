@@ -8,12 +8,12 @@
 ### 2017.12.17
 
 ```markdown
-终日
-撒我残存
-于高风
-踏云寻游宫阙
-于江源
-与鱼同游入海
+<center>终日</center>
+<center>撒我残存</center>
+<center>于高风</center>
+<center>踏云寻游宫阙</center>
+<center>于江源</center>
+<center>与鱼同游入海</center>
 ```
 
 
